@@ -40,3 +40,12 @@ Directives
     :linenos:
 
     <h1>code block example</h1>
+
+.. hlist::
+    :columns: 3
+
+    * first item
+    * second item
+    * 3d item
+    * 4th item
+    * 5th item

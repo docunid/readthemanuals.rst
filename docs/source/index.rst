@@ -56,3 +56,11 @@ Directives
     Subsequent indented lines comprise
     the body of the sidebar, and are
     interpreted as body elements.
+
+.. note::  This is a **note** box.
+
+.. topic:: Your Topic Title
+
+    Subsequent indented lines comprise
+    the body of the topic, and are
+    interpreted as body elements.

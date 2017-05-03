@@ -32,3 +32,11 @@ how
   body elements, indented relative to the 
   term. Blank lines are not allowed 
   between term and definition.
+
+Directives
+**********
+
+.. code-block:: html
+    :linenos:
+
+    <h1>code block example</h1>

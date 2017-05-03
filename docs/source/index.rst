@@ -59,6 +59,9 @@ Directives
 
 .. note::  This is a **note** box.
 
+.. todo::  This is a **todo** box.
+
+
 .. topic:: Your Topic Title
 
     Subsequent indented lines comprise
